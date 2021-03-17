@@ -1,0 +1,38 @@
+*{
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url("./Background.png");
+}
+
+.AboutUs{
+    color: aquamarine;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 400%;
+}
+h2{
+    color: aquamarine;
+    font-family: 'Open Sans', sans-serif;
+    text-align: unset;
+}
+.sub-heading{
+    
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+div{
+    column-count: 3;
+}
+p{
+    color: white;
+}
+.logo{
+    margin-right:76%;
+}
+.hamburger{
+    margin-bottom: 50px;
+}
+.fb{
+    margin-top: 15%;
+    margin-left: 90%;
+}
